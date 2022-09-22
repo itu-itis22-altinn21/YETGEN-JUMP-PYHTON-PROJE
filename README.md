@@ -1,5 +1,5 @@
 # YETGEN-JUMP-PYHTON-PROJE
-Selamlar, biz Yetgen Jump Python eğitiminden Takım-21. Adlarımız Nisa Özturhan, Nurefşan
+Selamlar, biz Yetgen Jump Python eğitiminden Takım-21. Adlarımız Nisa Özturan, Nurefşan
 Altın, Zeynep Kocaahmet ve Eda Tosun. Proje haftası gelip projeler açıklandığında; ilk olarak
 hazır olan projeleri mi yoksa kendi belirleyeceğimiz projeyi mi yapmak isteriz diye bir
 toplantı gerçekleştirdik. Ve süreç içinde kendi seçtiğimiz proje üzerinden ilerledik.
